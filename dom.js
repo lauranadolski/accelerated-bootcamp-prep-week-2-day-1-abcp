@@ -1,4 +1,5 @@
-var mydocument = [
+var myDocument = [
+ // to get the object out of the first array index = myDocument[0]
  
  
  
