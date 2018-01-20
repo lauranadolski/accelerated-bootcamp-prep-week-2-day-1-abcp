@@ -1,5 +1,8 @@
 var myDocument = [
  // to get the object out of the first array index = myDocument[0].children[0].children
+ // myDocument[0].children[0].children returns an array. If I wanted to grab the value key of the first object in this array.
+ var listItems = myDocument[0].children[0].children
+ //
  // We can drill down into the nested DOM using tools we already have.
  
  
