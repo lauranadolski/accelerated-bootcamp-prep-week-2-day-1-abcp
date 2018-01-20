@@ -1,4 +1,7 @@
 var mydocument = [
+ 
+ 
+ 
   {
     tagName: "div",
     children: [
